@@ -1,1 +1,1 @@
-FLutter prohect to track expences. Backend need to be added
+FLutter project to track expences. Backend needs to be added
